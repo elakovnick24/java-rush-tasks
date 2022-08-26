@@ -6,10 +6,5 @@ Template pattern
 
 public class Solution {
     public static void main(String[] args) {
-        LatteMaker latteMaker = new LatteMaker();
-        TeaMaker teaMaker = new TeaMaker();
-        latteMaker.makeDrink();
-        teaMaker.makeDrink();
-
     }
 }
